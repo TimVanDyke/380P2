@@ -5,7 +5,7 @@ In order to run this project install python 3 and then go to the root directory 
 ```
 python -m http.server
 ```
-the navigate to 
+Now, in a web browser, navigate to 
 ```
 localhost:8000
 ```
